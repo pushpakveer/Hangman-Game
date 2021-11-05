@@ -1,2 +1,5 @@
 Testing sample in git
 updates cricket
+Happy diwali
+Learning basics of github.
+
