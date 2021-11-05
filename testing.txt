@@ -1,2 +1,2 @@
 Testing sample in git
-updates file
+updates cricket
